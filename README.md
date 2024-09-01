@@ -4,6 +4,8 @@ this is a clone of StackOverFlow <br>
 
 > license: [Beer]()
 
+> created with [django-cookiecuuter](https://github.com/AbolfazlKameli/django-cookiecutter) for example.
+
 ## Features
 
 - **JWT Authentication**: Secure API access with JSON Web Tokens.
