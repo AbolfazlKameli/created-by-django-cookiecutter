@@ -110,3 +110,9 @@ $ python manage.py test
 ```
 
 The tests are written for the pre-built users app in the stackoverflow_clone project.
+
+## How this project created
+this project created with [django-cookiecuuter](https://github.com/AbolfazlKameli/django-cookiecutter) as an example.
+![terminal screeshot](https://github.com/AbolfazlKameli/created-by-django-cookiecutter/blob/main/terminal.png)
+
+
